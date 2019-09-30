@@ -1,7 +1,7 @@
 {
-  "name": "shaderExp",
+  "name": "Boilerplate",
   "version": "1.0.0",
-  "description": "Shader Exp",
+  "description": "Boilerplate",
   "main": "index.js",
   "scripts": {
     "start": "gulp",
